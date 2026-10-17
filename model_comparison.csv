@@ -1,0 +1,7 @@
+Model,Metric,Value
+Linear Regression,RMSE,53.85344583676592
+Linear Regression,R2 Score,0.4526027629719196
+Logistic Regression,Accuracy,0.9824561403508772
+Logistic Regression,Precision,0.9861111111111112
+Logistic Regression,Recall,0.9861111111111112
+Logistic Regression,F1-score,0.9861111111111112
